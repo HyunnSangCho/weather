@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "jambam-weather",
+    "jambam-weather": "jambam-weather"
+  }
+}
